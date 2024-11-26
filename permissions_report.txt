@@ -1,0 +1,5 @@
+File Permission Report for Directory: /home/krishna/Projects/Project1/TestDir
+-------------------------------------------------
+-rw-r--r-- 1 krishna krishna 14 Nov 26 21:08 /home/krishna/Projects/Project1/TestDir/file1.txt
+-rw-rw-r-- 1 krishna krishna 18 Nov 26 21:10 /home/krishna/Projects/Project1/TestDir/subdir/file3.txt
+-rw------- 1 krishna krishna 14 Nov 26 21:08 /home/krishna/Projects/Project1/TestDir/file2.txt
